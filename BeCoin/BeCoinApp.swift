@@ -9,9 +9,16 @@ import SwiftUI
 
 @main
 struct BeCoinApp: App {
+    
+    @StateObject private var vm = HomeViewModel()
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationView {
+                HomeView()
+                    .toolbar(.hidden)
+            }
+            .environmentObject(vm)
         }
     }
 }
