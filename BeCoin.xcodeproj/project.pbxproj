@@ -131,6 +131,7 @@
 			isa = PBXGroup;
 			children = (
 				A2BB470A2A9FCB240052AF26 /* DetailViewModel.swift */,
+				A23B20C72AA0AE700094573E /* New Group */,
 			);
 			path = ViewModels;
 			sourceTree = "<group>";
@@ -141,6 +142,13 @@
 				A2233E602A9F765E008B0BED /* DetailView.swift */,
 			);
 			path = Views;
+			sourceTree = "<group>";
+		};
+		A23B20C72AA0AE700094573E /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 		A23E484B2A94FD3A00B85154 /* Services */ = {
