@@ -46,6 +46,7 @@
 		A2EBBA192A97780B00A124A9 /* LocalFileManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2EBBA182A97780B00A124A9 /* LocalFileManager.swift */; };
 		A2EBBA1B2A97925E00A124A9 /* SearchBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2EBBA1A2A97925E00A124A9 /* SearchBarView.swift */; };
 		A2EBBA1D2A979BDD00A124A9 /* UIApplication.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2EBBA1C2A979BDD00A124A9 /* UIApplication.swift */; };
+		A2F1A8D52AA11F6800E1E484 /* String.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2F1A8D42AA11F6800E1E484 /* String.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -89,6 +90,7 @@
 		A2EBBA182A97780B00A124A9 /* LocalFileManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalFileManager.swift; sourceTree = "<group>"; };
 		A2EBBA1A2A97925E00A124A9 /* SearchBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBarView.swift; sourceTree = "<group>"; };
 		A2EBBA1C2A979BDD00A124A9 /* UIApplication.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIApplication.swift; sourceTree = "<group>"; };
+		A2F1A8D42AA11F6800E1E484 /* String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = String.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -216,6 +218,7 @@
 				A23E48472A94DED600B85154 /* Double.swift */,
 				A23E48452A94CC5A00B85154 /* PreviewProvider.swift */,
 				A2EBBA1C2A979BDD00A124A9 /* UIApplication.swift */,
+				A2F1A8D42AA11F6800E1E484 /* String.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -362,6 +365,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A2F1A8D52AA11F6800E1E484 /* String.swift in Sources */,
 				A2B4F0CA2A97CDD300821A82 /* StatisticModel.swift in Sources */,
 				A23E484D2A94FD8700B85154 /* CoinDataService.swift in Sources */,
 				A23E48442A94CBB100B85154 /* CoinRowView.swift in Sources */,
