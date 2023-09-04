@@ -79,8 +79,6 @@ The BeCoin app follows the MVVM (Model-View-ViewModel) architecture pattern to s
 - Combine
 - CoreData
 - Multithreading
-- Biometric Authentication (Face ID/Touch ID)
-- PIN Code Security
 
 ## Contributing
 
