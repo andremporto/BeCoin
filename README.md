@@ -9,7 +9,6 @@ BeCoin is a cryptocurrency wallet application built in Swift using SwiftUI. This
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Architecture](#architecture)
 - [Technologies](#technologies)
@@ -38,21 +37,6 @@ BeCoin is a cryptocurrency wallet application built in Swift using SwiftUI. This
 These instructions will help you set up and run the BeCoin app on your local machine for development and testing purposes.
 
 To run the BeCoin app on your local development environment, follow these steps:
-
-1. Clone the repository to your machine / Clone o repositório para sua máquina:
-
-   ```bash
-   git clone https://github.com/JonataKlabunde/ColorSense.git
-   ```
-
-2. Open the project in Xcode / Abra o projeto no Xcode:
-
-   ```bash
-   cd ColorSense
-   open ColorSense.xcodeproj
-   ```
-
-3. Build and run the app in the Xcode simulator or on a physical device / Compile e execute o aplicativo no simulador do Xcode ou em um dispositivo físico.
 
 ### Installation
 
