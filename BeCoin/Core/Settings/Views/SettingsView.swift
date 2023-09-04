@@ -22,11 +22,22 @@ struct SettingsView: View {
     
     var body: some View {
         NavigationView {
-            List {
-                appSection
-                coinGeckoSection
-                andreInfoSection
-                applicationSection
+            ZStack {
+                // Background
+//                Color.theme.background
+//                    .ignoresSafeArea()
+                
+                // Content Layer
+                List {
+                    appSection
+//                        .listRowBackground(Color.theme.background.opacity(0.5))
+                    coinGeckoSection
+//                        .listRowBackground(Color.theme.background.opacity(0.5))
+                    andreInfoSection
+//                        .listRowBackground(Color.theme.background.opacity(0.5))
+                    applicationSection
+//                        .listRowBackground(Color.theme.background.opacity(0.5))
+                }
             }
             .font(.headline)
             .tint(.blue)

@@ -27,6 +27,10 @@ struct PortfolioView: View {
                     }
                 }
             }
+            .background(
+                Color.theme.background
+                    .ignoresSafeArea()
+            )
             .navigationTitle("Editar Carteira")
             .toolbar {
                 ToolbarItem(placement: .navigationBarLeading) {
