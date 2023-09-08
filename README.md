@@ -112,8 +112,8 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 ## Author
 
 <a href="https://andreporto.vercel.app">
- <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/andremporto/andremporto/main/foto/fotoperfil.png" width="130px;" alt=""/>
- <br />
+ <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/andremporto/andremporto/main/foto/fotoperfil.png" width="130px;" alt="foto"/></a>
+ <br/>
 
 Made with ♥️ por André Porto 🚀
 
