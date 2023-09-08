@@ -15,6 +15,7 @@ BeCoin is a cryptocurrency wallet application built in Swift using SwiftUI. This
 - [Contributing](#contributing)
 - [Commit Convention](#commit-convention)
 - [License](#license)
+- [Author](#author)
 
 ## Features
 
@@ -107,3 +108,14 @@ If you'd like to contribute to the BeCoin project, please follow these steps:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
+## Author
+
+<a href="https://andreporto.vercel.app">
+ <img style="border-radius: 50%;" src="https://raw.githubusercontent.com/andremporto/andremporto/main/foto/fotoperfil.png" width="130px;" alt=""/>
+ <br />
+
+Made with ♥️ por André Porto 🚀
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/andremporto)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andremporto/)](https://www.linkedin.com/in/andremporto/)
+[![Gmail Badge](https://img.shields.io/badge/-andreporto@me.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andreporto@me.com)](mailto:andreporto@me.com)
