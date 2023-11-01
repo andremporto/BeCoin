@@ -1,4 +1,4 @@
-![ColorSense](./BeCoin/Assets.xcassets/Images/IphoneReadmeCapa.jpg)
+![BeCoin](./BeCoin/Assets.xcassets/Images/IphoneReadmeCapa.jpg)
 
 # BeCoin - Cryptocurrency Wallet App
 
